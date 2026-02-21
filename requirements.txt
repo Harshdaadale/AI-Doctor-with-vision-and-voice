@@ -1,0 +1,11 @@
+gradio
+groq
+elevenlabs
+gtts
+python-dotenv
+pydub
+speechrecognition
+ffmpy
+pillow
+numpy
+pandas
